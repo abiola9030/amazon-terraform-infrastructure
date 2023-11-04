@@ -12,7 +12,7 @@ variable "instance_type" {
 
 variable "instance_name" {
     type = string
-    description = "(ec2 name"
+    description = "ec2 name"
     default = "amazon-instance"
 }
 
